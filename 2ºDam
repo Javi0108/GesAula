@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<grupo denominacion="Desarrollo de Aplicaciones Multiplataforma">
+    <alumnos>
+        <apellidos>de tal</apellidos>
+        <fechaNacimiento>2004-11-24</fechaNacimiento>
+        <nombre>Fulanito</nombre>
+        <repite>true</repite>
+        <sexo>HOMBRE</sexo>
+    </alumnos>
+    <finCurso>2021-12-01</finCurso>
+    <iniCurso>2021-11-01</iniCurso>
+    <pesos actitud="9.818181818181818" examenes="59.727272727272734" practicas="30.272727272727273"/>
+</grupo>
